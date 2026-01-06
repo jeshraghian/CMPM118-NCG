@@ -8,7 +8,7 @@ Machine Learning is all about building programs that learn from data. Neural net
 * The ridic amount of computational power (especially in GPUs)
 * The fact that neural networks are highly parallelizable algorithms, and the fact that GPUs are very good at highly parallelizable workloads. 
 
-This first week is a good opportunity for you to catch up on some foundational skills. 
+This first week is a good opportunity for you to catch up on some foundational skills. If you grind hard to set up your foundations, you'll be rewarded with a deeper appreciation of the content in following weeks.
 
 ## Make sure you know your options for a coding/development environment
 * [Google Colab](https://colab.research.google.com/) is a nice, quickstart environment for you to start coding in a `notebook' environment.
@@ -32,8 +32,24 @@ I encourage you all to try and learn without ChatGPT first, and then use it if y
 * Choose your library of choice. PyTorch is far more popular in research. Tensorflow is *slightly* more popular in production environments. I'd recommend PyTorch. 
 * [PyTorch tutorial](https://youtu.be/OIenNRt2bjg?si=TePZZROSI3hgZHdx)
 
+# Training Neural Networks
+
+## Neural Networks 102
+* [Neural Networks and Deep Learning Playlist](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0) - You should have watched this already, but for a recap: Videos 9-16, 32-34, 41
+* [Improving Neural Networks Playlist](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc) - At the very least, watch Videos 10, 20-23.
+* [3Blue1Brown Neural Networks Playlist: Videos 2-4](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&ab_channel=3Blue1Brown)
+
+
 ## Optional viewing
 * [Improving Neural Networks Playlist](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Hn0vK8co82zjQtt3T2Nkqc) - At the very least, watch Videos 1,2,15.
 
 Note there are many different techniques in machine learning. We tend to focus on neural networks in our course, but if you want to become a pro, it's important to understand classical techniques too. My personal favourite course on classical machine learning comes from Kilian Weinberger: [YouTube lecture series](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS).
 Note that Andrew Ng's Deep Learning playlists above were made quite a while ago. Some minor things are outdated. But it is still very useful to know the trajectory of the field in the past decade.
+
+* [Structuring Machine Learning Projects](https://www.youtube.com/playlist?list=PLkDaE6sCZn6E7jZ9sN_xHwSHOdjUxUW_b) - At the very least, watch Videos  1,5,6,19
+
+On a final note to neural networks, these YouTube videos provide a rather basic background only. If you wish to dive into the math, some more chunky resources include:
+
+* [CS229 - Machine Learning Full Course @ Stanford](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU)
+* [Deep Learning Textbook by Ian GoodFellow](https://www.deeplearningbook.org/)
+
