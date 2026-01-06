@@ -23,16 +23,14 @@ You will begin in the Educational Track. This path is designed to give you a sol
 
 **I am a returning student joining/already in a research group**
 
-If you are a returning student looking to transition into a research group, you will need to complete the application process within the [CMPM 118 Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLSecCLmML6xFM2hLMfF01Aa9y10y9EyMK1S0YU2LiCsH6rOFtA/viewform?usp=header).
+If you are a returning student looking to transition into a research group, you will be contacted with a permission code and group allocations. Your research interests and strengths will be taken into account when allocating you to a group project. We encourage creativity and the development of your own original research proposals.
 
-* **[Syllabus](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/syllabi/research.md)**
+* **[Syllabus](https://github.com/jeshraghian/CMPM118-NCG/blob/main/syllabi/research.md)**
 * The syllabus contains links to self-guided educational material you are expected to work through.
-* **Next Steps:** Please complete the [CMPM 118 Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLSecCLmML6xFM2hLMfF01Aa9y10y9EyMK1S0YU2LiCsH6rOFtA/viewform?usp=header) and indicate your interest in a research group. Your responses will be reviewed by research mentors.
+* **Next Steps:** Your tutor will reach out directly to organize weekly meetings.
 
 Key Reminders
-* All students interested in joining either the research or education group must complete the [CMPM 118 Student Information Form](https://docs.google.com/forms/d/e/1FAIpQLSecCLmML6xFM2hLMfF01Aa9y10y9EyMK1S0YU2LiCsH6rOFtA/viewform?usp=header).
 * Research group placement is competitive and is not guaranteed. All new students must participate in the Educational Track.
-* New students must upload their CV as part of the student information form.
 
 We are excited to have you in the class and look forward to a productive quarter!
 
