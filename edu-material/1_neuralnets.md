@@ -25,7 +25,7 @@ I mean, sure, ChatGPT/Claude Code is good at Python too.
 I encourage you all to try and learn without ChatGPT first, and then use it if you're really stuck - but make sure you understand the fix.
 * [Python Crash Course](https://www.youtube.com/watch?v=kqtD5dpn9C8&feature=youtu.be)
 
-## Neural Networks 101
+## Neural Networks 101 YouTube Tutorials
 * [Neural Networks and Deep Learning: Videos 1-24](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
 * [Neural Networks and Deep Learning: Videos 25-43](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Ec-XTbcX1uRg2_u4xOEky0)
 * [3Blue1Brown Neural Networks Playlist: Videos 1-2](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&ab_channel=3Blue1Brown)
