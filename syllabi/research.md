@@ -2,7 +2,7 @@
 Syllabus for the research portion of CMPM 118 w/ Prof. Jason Eshraghian
 
 ## Course Description 
-This course serves as a structured pathway for undergraduate researchers in the Neuromorphic Computing Group. Students will participate in group projects spanning several quarters, with the aim of publishing novel research in an undergraduate-focused conference or journal (e.g., Baylearn, ICLR Tiny Papers). Select groups may also choose to pursue non-research projects, such as making significant open-source code contributions, authoring a comprehensive literature review, or tackling a competitive challenge (e.g., Kaggle).
+This course serves as a structured pathway for undergraduate researchers in the Neuromorphic Computing Group. Students will participate in group projects spanning several quarters, with the aim of publishing novel research in a conference or journal. Select groups may also choose to pursue non-research projects, such as making significant open-source code contributions, authoring a comprehensive literature review, or tackling a competitive challenge (e.g., Kaggle).
 
 **Note: You must only enroll as P/NP**.
 
@@ -31,6 +31,9 @@ This course serves as a structured pathway for undergraduate researchers in the 
 * **Final Presentation (10%):** Occurring in Week 10, this will summarize your work.
 * **Final Project (20%):** The final deliverable will be an in-progress or completed novel research project on a selected topic in Deep Learning and Neuromorphic Computing.
 * **Peer Evaluation (10%):** Must be completed to receive 10%. A lack of useful contributions will scale your overall grade down.
+
+A C-grade or higher (72.5) will qualify for a P. Below that is a NP.
+Research projects will typically take longer than one quarter, and so students that are meaningfully contributing to their group will be invited to re-enroll in CMPM 118 in future quarters.
 
 ## Schedule 
 | Week(s) | Focus | Deliverables | 
