@@ -1,14 +1,17 @@
 # CMPM 118 / Neuromorphic Computing Group / Education Group Syllabus 
 Syllabus for the education portion of CMPM 118 w/ Prof. Jason Eshraghian
+
 ## Course Description
 This course provides an introduction to deep learning from the perspective of undergraduate research. It emphasizes theoretical understanding, analysis, teamwork, and research skills. By the end of this course, students will be equipped to meaningfully contribute to an undergraduate lab at UCSC with a focus on AI research.
 
-**Instructors:** Skye Gunasekaran (akgunase@ucsc.edu) & Jason Eshraghian (jsn@ucsc.edu)
+Jason will be teaching ECE 110/210 "Brain-Inspired Machine Learning" on Tu/Th at 5.20pm - 6.55pm in Physical Sciences 110. 
+Classes will be recorded and posted either on Yuja or YouTube. You don't need to follow along with the project work or assessments, but you will need to keep up with the lecture content.
 
-**Location & Time:** 5:20-6:55pm Tuesday @ Engineering 2 Room 194
+**Note: You must enroll as P/NP only.**
 
-* Tuesdays: In-Class Lectures \& Coding Session
-* Thursdays: Self-guided Project Sessions
+**Instructors:** Jason Eshraghian (jsn@ucsc.edu) & Skye Gunasekaran (akgunase@ucsc.edu)
+
+**Location & Time:** 5:20-6:55pm Tuesday/Thursday @ Physical Sciences 110 (Recorded, attendance not mandatory)
 
 ## Course Outcomes 
 
@@ -26,34 +29,27 @@ This course provides an introduction to deep learning from the perspective of un
 
 ## Grading
 
-* **Homework (30%):** Bi-weekly coding assignments in PyTorch based on selected class material.
-* **Weekly Quizzes (30%):** Due at the end of each week, will test your comprehension of the reading materials and lecture slides. 
-* **Final Project & Presentation (40%):** A flexible experience consisting of either a coding challenge (e.g., on Kaggle), a novel research project with the goal of publication, or contribute to open-source by creating a tutorial or tool.
+* **Quizzes (40%):** 8 simple online multi-choice quizzes via Canvas (5% each)
+* **Attendance at Group Research Meetings (20%)**
+* **Final Group Paper (15%)**  
+* **Final Group Presentation (15%)**
+* **Peer Evaluation (10%)**
+
+A grade of C or higher (72.5%) will qualify as a P.
+
+Top performing students will be invited to research groups in subsequent quarters.
 
 ## Schedule 
 | Week | Topics |
 | ---- | ------ | 
-| 1 | [Machine Learning Basics](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/1_ml_basics.md) | 
-| 2 | [Neural Networks](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/2_neuralnets.md) |
-| 3 | [Gradient Descent, Backpropagation, Optimization](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/3_training.md) | 
-| 4 | [Convolutional networks](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/4_cnn.md) |
-| 5 | [Recurrent networks, BPTT](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/5_rnns.md) | 
-| 6 & 7 | [Language Modeling, Transformers](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/6_llms.md) | 
-| 8 | [Event-based Data](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/8_events.md) |
-| 9 | [Spiking Neural Networks](https://github.com/SkyeGunasekaran/CMPM118-NCG/blob/main/edu-material/9_snns.md) | 
-| 10 | Final Project Presentations |
-
-<!-- | Week | Topics | Material | 
-| ---- | ------ | -------- |
-| 1 | Machine Learning Basics | Deep Learning Book: 5.0-5.8 |
-| 2 | Neural Networks | Deep Learning Book: 6.0-6.4 |
-| 3 | Gradient Descent, Backpropagation, Optimization | Deep Learning Book: 6.5, 8.0-8.3 |
-| 4 | Convolutional networks | Deep Learning Book: 9.0-9.3, 9.10 |
-| 5 | Recurrent networks, BPTT | Deep Learning Book: 10.0-10.4 |
-| 6 & 7 | Language Modeling, Transformers | A Survey Of Transformers |
-| 8 | Event-based Data | [ipynb notebook](https://github.com/gcohen/AMOS-Short-Course) |
-| 9 | Spiking Neural Networks 2 | Training Spiking Neural Networks Using Lessons From Deep Learning | 
-| 10 | Final Project Presentations | NA |  -->
+| 1 | [Neural Networks](https://github.com/jeshraghian/CMPM118-NCG/blob/main/edu-material/1_neuralnets.md) | 
+| 2 | [Spiking Neural Networks](https://github.com/jeshraghian/CMPM118-NCG/blob/main/edu-material/2_snns.md) |
+| 3 | [Biological Learning Rules](https://github.com/jeshraghian/CMPM118-NCG/blob/main/edu-material/3_biological.md) | 
+| 4 & 5 | [Neural Language Models](https://github.com/jeshraghian/CMPM118-NCG/blob/main/edu-material/4_llms.md) |
+| 6 & 7 | [Microelectronics 101](https://github.com/jeshraghian/CMPM118-NCG/blob/main/edu-material/6_micro.md) | 
+| 8 | [AI Hardware](https://github.com/jeshraghian/CMPM118-NCG/blob/main/edu-material/8_aihw.md) | 
+| 9 | [Memory Circuits](https://github.com/jeshraghian/CMPM118-NCG/blob/main/edu-material/9_mem.md) |
+| 10| Final Project Presentations |
 
 
 ## Diversity and Inclusion
