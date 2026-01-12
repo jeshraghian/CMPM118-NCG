@@ -41,7 +41,7 @@ From here, this material starts becoming much more tightly related to the work i
 ## Optional viewing
 Recurrent neural networks have a lot of problems with them. With some slight modifications, they become extremely powerful.
 My lab has been paying a lot of attention to *State-Space Models*. 
-* [Some basics of state-space models](youtube.com/watch?v=X-7rgesJaGM&ab_channel=ConferenceonLanguageModeling) - Note, state-space models are just a fancy name for recurrent networks that are linear through time.
+* [Some basics of state-space models](https://www.youtube.com/watch?v=5tzA72tOlRw&t=2567s) - Note, state-space models are just a fancy name for recurrent networks that are linear through time.
 * [A paper on hybrid linear attention](https://arxiv.org/abs/2507.06457) - This combines linear RNNs with Transformers (which you'll learn next week). This was a paper co-led by a former undergraduate at UCSC who I met through CMPM 118! 
 * [HGRN2](https://arxiv.org/abs/2404.07904) - A very powerful linear recurrent neural network used in language modeling
 * [Linear Attention](https://www.youtube.com/watch?v=d0HJvGSWw8A&ab_channel=SashaRush)
